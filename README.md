@@ -1,3 +1,6 @@
+# Predict the star rating associated with user reviews
+[Kaggle Competition](https://www.kaggle.com/competitions/cs-506-spring-2025-technical-midterm)
+
 # Project Report
 
 ## Pre-processing (Experimented)
