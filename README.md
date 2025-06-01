@@ -1,7 +1,7 @@
 # Predict the star rating associated with user reviews
 [Kaggle Competition](https://www.kaggle.com/competitions/cs-506-spring-2025-technical-midterm)
 
-![image](https://github.com/user-attachments/assets/5edd22a9-6e53-4354-b8c0-025a2f28dce9)
+![image](kaggle_leaderboard.png)
 
 
 # Project Report
